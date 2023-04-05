@@ -2,14 +2,14 @@
 
 ## Hello Everyone, We are the Power Rangers !
 
-Members in Group 3: 
+### Members in Group 3: 
 1. Karan Dhiman
 2. Drashti Patel
 3. Aditi Jha
 4. Twinkle Verma
 5. Ishan Patel
 
-### Languages and Tools:
+### Languages and Tools used for the Project:
 [<img align="left" alt="VS Code" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
 [<img align="left" alt="Illustrator" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
 [<img align="left" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />][html5]
