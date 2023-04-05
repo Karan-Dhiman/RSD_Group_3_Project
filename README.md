@@ -3,7 +3,7 @@
 ## Hello Everyone, We are the Power Rangers !
 
 Members in Group 3: 
-1. Karan Dhiman ![#f03c15]
+1. Karan Dhiman
 2. Drashti Patel
 3. Aditi Jha
 4. Twinkle Verma
